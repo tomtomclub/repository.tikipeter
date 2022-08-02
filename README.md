@@ -1,6 +1,6 @@
 # Rules for Reporting Issues
 
-* **TMDbHelper** and/or library playback issues are *not supported*. Fen does not support TMDbHelper. If I wanted to write an addon to purely search and play back results whilst another addon is used for everything else, that's what I would have written. The full breaking of TMDbHelper accessing Fen scraping & playback is close. Don't push that by opening an Issue related to it. Use a Fen fork if you want to use TMDbHelper as well.
+* **TMDbHelper** and/or library playback issues are *not supported*. Fen does not support TMDbHelper. If I wanted to write an addon to purely search and play back results whilst another addon is used for everything else, that's what I would have written. The full breaking of TMDbHelper accessing Fen scraping & playback is close. Don't push that by opening an Issue related to it. Use a Fen fork if you want to use TMDbHelper.
 * Error related Issues **MUST** include a log file. Your Issue will be closed immediately if there is no log file included.
 * You must check all open Issues to see if your problem is being addressed already.
 * **Do Not** hijack an open issue with unrelated problems. Open a new Issue.
